@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuanqi&#39;s Homepage</title>
-    <link>https://yuanqidu.github.io/</link>
-      <atom:link href="https://yuanqidu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuanqi&#39;s Homepage</description>
+    <title>Sai Gurrapu | Yuanqi&#39;s Homepage</title>
+    <link>https://yuanqidu.github.io/authors/sai-gurrapu/</link>
+      <atom:link href="https://yuanqidu.github.io/authors/sai-gurrapu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sai Gurrapu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuanqidu.github.io/img/icon-192.png</url>
-      <title>Yuanqi&#39;s Homepage</title>
-      <link>https://yuanqidu.github.io/</link>
+      <title>Sai Gurrapu</title>
+      <link>https://yuanqidu.github.io/authors/sai-gurrapu/</link>
     </image>
-    
-    <item>
-      <title>American Sign Language Recognition Using an FMCW Wireless Sensor</title>
-      <link>https://yuanqidu.github.io/publication/asl-wirelesssensor/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuanqidu.github.io/publication/asl-wirelesssensor/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CamASL</title>
