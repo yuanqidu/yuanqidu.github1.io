@@ -5,12 +5,20 @@
     <link>https://yuanqidu.github.io/publication_types/</link>
       <atom:link href="https://yuanqidu.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuanqidu.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
       <link>https://yuanqidu.github.io/publication_types/</link>
     </image>
+    
+    <item>
+      <title>1</title>
+      <link>https://yuanqidu.github.io/publication_types/1/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yuanqidu.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuanqi&#39;s Homepage</title>
-    <link>https://yuanqidu.github.io/</link>
-      <atom:link href="https://yuanqidu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuanqi&#39;s Homepage</description>
+    <title>Parth Pathak | Yuanqi&#39;s Homepage</title>
+    <link>https://yuanqidu.github.io/authors/parth-pathak/</link>
+      <atom:link href="https://yuanqidu.github.io/authors/parth-pathak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parth Pathak</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuanqidu.github.io/img/icon-192.png</url>
-      <title>Yuanqi&#39;s Homepage</title>
-      <link>https://yuanqidu.github.io/</link>
+      <title>Parth Pathak</title>
+      <link>https://yuanqidu.github.io/authors/parth-pathak/</link>
     </image>
     
     <item>
